@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\bin\Debug\TextWorks.exe.config
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\bin\Debug\TextWorks.exe
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\bin\Debug\TextWorks.pdb
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks_MarkupCompile.cache
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks_MarkupCompile.lref
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.g.resources
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.Properties.Resources.resources
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.exe
+C:\Users\Администратор\source\repos\WpfApp1\TextWorks\obj\Debug\TextWorks.pdb

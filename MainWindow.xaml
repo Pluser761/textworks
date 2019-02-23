@@ -1,0 +1,32 @@
+﻿<Window x:Class="TextWorks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextWorks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="593" Width="800">
+    <Grid Background="#FF9DE29D">
+        <Label x:Name="label" Content="Основные компоненты визуального оформления интерфейса. Часть 1" HorizontalAlignment="Left" Margin="25,43,0,0" VerticalAlignment="Top" Width="676" FontSize="18" Background="{x:Null}" Foreground="Red" FontWeight="Bold"/>
+        <Button x:Name="button_clear" Content="Очистить все" HorizontalAlignment="Left" Margin="671,105,0,0" VerticalAlignment="Top" Width="86" Click="button_clear_Click"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="309,104,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Список 1" HorizontalAlignment="Left" Width="118" TabIndex="0"/>
+            <ComboBoxItem Content="Список 2" HorizontalAlignment="Left" Width="118" TabIndex="0"/>
+        </ComboBox>
+        <Label x:Name="label1" Content="Способ вставки" HorizontalAlignment="Left" Margin="199,104,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="label2" Content="Текст" HorizontalAlignment="Left" Margin="47,146,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="90,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="306"/>
+        <Button x:Name="button_read" Content="Записать" HorizontalAlignment="Left" Margin="414,148,0,0" VerticalAlignment="Top" Width="75" Click="button_read_Click"/>
+        <Label x:Name="label3" Content="Список 1" HorizontalAlignment="Left" Margin="199,193,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="label4" Content="Список 2" HorizontalAlignment="Left" Margin="522,193,0,0" VerticalAlignment="Top" Width="63"/>
+        <ListBox x:Name="listBox_1" HorizontalAlignment="Left" Height="262" Margin="90,239,0,0" VerticalAlignment="Top" Width="273"/>
+        <ListBox x:Name="listBox_2" HorizontalAlignment="Left" Height="262" Margin="428,239,0,0" VerticalAlignment="Top" Width="273"/>
+        <Button x:Name="button_exit" Content="Выход" HorizontalAlignment="Left" Margin="671,536,0,0" VerticalAlignment="Top" Width="75" Click="button_exit_Click"/>
+        <Button x:Name="button" Content="&gt;" HorizontalAlignment="Left" Margin="368,269,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="button_right" Content="&gt;" HorizontalAlignment="Left" Margin="368,269,0,0" VerticalAlignment="Top" Width="55" Click="button_right_Click"/>
+        <Button x:Name="button_rightall" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="368,294,0,0" VerticalAlignment="Top" Width="55" Click="button_rightall_Click"/>
+        <Button x:Name="button_left" Content="&lt;" HorizontalAlignment="Left" Margin="368,408,0,0" VerticalAlignment="Top" Width="55" Click="button_left_Click"/>
+        <Button x:Name="button_leftall" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="368,433,0,0" VerticalAlignment="Top" Width="55" Click="button_leftall_Click"/>
+
+    </Grid>
+</Window>
